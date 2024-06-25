@@ -57,3 +57,8 @@ aria2c --console-log-level=error --check-integrity --auto-file-renaming=false -c
 ```shell
 python diffutoon_demo.py
 ```
+
+### 相关截图
+![image](https://github.com/Samge0/DiffSynth-Studio/assets/17336101/7bbc0d9f-838a-46e2-a296-5c4e94ffae87)
+
+![image](https://github.com/Samge0/DiffSynth-Studio/assets/17336101/8093318e-a793-4218-9ccf-d817c6116881)
