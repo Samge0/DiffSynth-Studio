@@ -1,0 +1,12 @@
+{
+	"name": "diffsynth-studio",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "diffsynth-studio",
+    "workspaceFolder": "/app",
+    "extensions": [
+        "ms-python.python",
+        "ms-python.debugpy",
+        "humao.rest-client",
+        "samge.vscode-samge-translate"
+    ]
+}
